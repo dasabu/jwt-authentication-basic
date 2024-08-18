@@ -13,7 +13,7 @@ This is a basic MERN stack application demonstrating the implementation of JSON 
 ### Clone the Project
 
 ```bash
-git clone https://github.com/hiimdaxd/jwt-authentication-b
+git clone https://github.com/hiimdaxd/jwt-authentication-basic
 ```
 
 ### Back-end Setup
