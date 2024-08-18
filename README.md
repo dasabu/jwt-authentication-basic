@@ -36,26 +36,6 @@ Start back-end server:
 npm run dev
 ```
 
-### Back-end Setup
-
-Navigate to the back-end directory:
-
-```bash
-cd backend
-```
-
-Install dependencies:
-
-```bash
-npm install
-```
-
-Start back-end server:
-
-```bash
-npm run dev
-```
-
 The default back-end server will run on port <b>8080</b>.
 
 ### Front-end Setup
